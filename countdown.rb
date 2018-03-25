@@ -1,4 +1,9 @@
 #write your code here
 
-def countdown
+def countdown(number)
+  number
+  = 10
+   while interger > 0
+   puts"#{
+  
 end
